@@ -1,0 +1,36 @@
+>6HBmono                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+                                                                                     
+                                                        ╭─────────────────────────╮ 
+                                 ╭────AA──╮             ^╭───────────────────────╮│ 
+  ╭CGNNNNNNNNNNN──NNN──NNNNNNNNNN╯╭─NNNNNN╯╭ANNNNNNNNNNN╯╰NNN──NNNNNNNNNNUU╮     ││ 
+  │  ┊┊┊┊┊┊┊┊┊┊┊  ┊┊┊  ┊┊┊┊┊┊┊┊┊┊ │ ****** │ ┊┊┊┊┊┊┊┊┊┊┊  ┊┊┊  ┊┊┊┊┊┊┊┊┊┊  │     ││ 
+  ╰UUNNNNNNNNNNN──NNN╮╭NNNNNNNNNNA╯╭NNNNNN─╯╭NNNNNNNNNNN──NNN╮╭NNNNNNNNNNGC╯     ││ 
+                ╭────╯^            ╰──AA────╯           ╭────╯^                  ││ 
+                ^╭────╯          ╭────AA──╮             ^╭────╯                  ││ 
+  ╭CGNNNNNNNNNNN╯╰NNN──NNNNNNNNNN╯╭─NNNNNN╯╭ANNNNNNNNNNN╯╰NNN──NNNNNNNNNNUU╮     ││ 
+  │  ┊┊┊┊┊┊┊┊┊┊┊  ┊┊┊  ┊┊┊┊┊┊┊┊┊┊ │ ****** │ ┊┊┊┊┊┊┊┊┊┊┊  ┊┊┊  ┊┊┊┊┊┊┊┊┊┊  │     ││ 
+  ╰UUNNNNNNNNNNN──NNN╮╭NNNNNNNNNNA╯╭NNNNNN─╯╭NNNNNNNNNNN──NNN╮╭NNNNNNNNNNGC╯     ││ 
+                ╭────╯^            ╰──AA────╯           ╭────╯^                  ││ 
+                ^╭────╯          ╭────AA──╮             ^╭────╯                  ││ 
+  ╭CGNNNNNNNNNNN╯╰NNN──CNNNNNNNNN╯╭─NNNNNN╯╭ANNNNNNNNNNN╯╰NNN──NNNNNNNNNNUU╮     ││ 
+  │  ┊┊┊┊┊┊┊┊┊┊┊  ┊┊┊  ┊┊┊┊┊┊┊┊┊┊ │ ****** │ ┊┊┊┊┊┊┊┊┊┊┊  ┊┊┊  ┊┊┊┊┊┊┊┊┊┊  │     ││ 
+  ╰UUNNNNNNNNNNN──NNN╮╭GNNNNNNNNNA╯╭NNNNNN─╯╭NNNNNNNNNNN──NNN╮╭NNNNNNNNNNGC╯     ││ 
+                ╭────╯^            ╰──AA────╯           ╭────╯^                  ││ 
+                ^╭────╯          ╭────AA──╮             ^╭────╯                  ││ 
+  ╭CGNNNNNNNNNNN╯╰NNN──NNNNNNNNNN╯╭─NNNNNN╯╭ANNNNNNNNNNN╯╰NNN──NNNNNNNNNNUU╮     ││ 
+  │  ┊┊┊┊┊┊┊┊┊┊┊  ┊┊┊  ┊┊┊┊┊┊┊┊┊┊ │ ****** │ ┊┊┊┊┊┊┊┊┊┊┊  ┊┊┊  ┊┊┊┊┊┊┊┊┊┊  │     ││ 
+  ╰UUNNNNNNNNNNN──NNN╮╭NNNNNNNNNNA╯╭NNNNNN─╯╭NNNNNNNNNNN──NNN╮╭NNNNNNNNNNGC╯     ││ 
+                ╭────╯^            ╰──AA────╯           ╭────╯^                  ││ 
+                ^╭────╯                                 ^╭────╯                  ││ 
+  ╭CGNNNNNNNNNNN╯╰NNN──NNNNNNNNNUCUCCC───NNNNNNNNNNNNNNN╯╰NNN──NNNNNNNNNNUU╮     ││ 
+  │  ┊┊┊┊┊┊┊┊┊┊┊  ┊┊┊  ┊┊┊┊┊┊┊┊┊┊┊┊┊┊┊   ┊┊┊┊┊┊┊┊┊┊┊┊┊┊┊  ┊┊┊  ┊┊┊┊┊┊┊┊┊┊  │     ││ 
+  ╰UUNNNNNNNNNNN──NNN╮╭NNNNNNNNNAGAGGG5 3NNNNNNNNNNNNNNN──NNN──NNNNNNNNNNGC╯     ││ 
+                ╭────╯^                                                          ││ 
+                ^╭────╯          ╭────AA──╮                                      ││ 
+  ╭CGNNNNNNNNNNN╯╰NNN──NNNNNNNNNN╯╭─NNNNNN╯╭ANNNNNNNNNNN──NNN──NNNNNNNNNNUU╮     ││ 
+  │  ┊┊┊┊┊┊┊┊┊┊┊  ┊┊┊  ┊┊┊┊┊┊┊┊┊┊ │ ****** │ ┊┊┊┊┊┊┊┊┊┊┊  ┊┊┊  ┊┊┊┊┊┊┊┊┊┊  │     ││ 
+  ╰UUNNNNNNNNNNN──NNN──NNNNNNNNNNA╯╭NNNNNN─╯╭NNNNNNNNNNN──NNN╮╭NNNNNNNNNNGC╯     ││ 
+                                   ╰──AA────╯                │^                  ││ 
+                                                             │╰──────────────────╯│ 
+                                                             ╰────────────────────╯  
+                                                                                                           
