@@ -1,0 +1,36 @@
+Input file:
+                                                                       
+                           ╭───AA───╮                                    
+   ╭UUCNNNNKNNNNG──GNNNGCA╮╰GCCUCC─╮╰GU─NNNNG──CNNNNKNNNNGGC╮          
+   │  ┊┊┊┊┊┊┊┊┊┊┊  ┊┊┊┊┊┊ │ ****** │ ┊┊ ┊┊┊┊┊  ┊┊┊┊┊┊┊┊┊┊┊  │          
+   ╰CGGNNNNKNNNNC╮╭CNNNUG╮╰─CGGAGG╮╰ACG─NNNNC╮╭GNNNNKNNNNCUU╯          
+                 ││      ╰───AA───╯          ││                        
+                 ││                          ││                        
+   ╭UUCNNNNKNNNNG╯╰GNNNNKNNNNN────CCCUCUKNNNC╯╰GNNNNKNNNNGGC╮          
+   │  ┊┊┊┊┊┊┊┊┊┊┊  ┊┊┊┊┊┊┊┊┊┊┊    ┊┊┊┊┊┊┊┊┊┊┊  ┊┊┊┊┊┊┊┊┊┊┊  │                                                                                      
+   ╰CGGNNNNKNNNNC──CNNNNKNNNNN3  5GGGAGAKNNNG──CNNNNKNNNNCUU╯          
+                                                                              
+
+The 5p end is found at row 9, column 33 and is running right.
+There are 192 nucleotides in the blueprint file.
+The structure has been successfully traced (3p end found).
+The are 192 nts from 5p to 3p.
+
+
+Output: The sequence and structure
+
+GGGAGAKNNNGCNNNNKNNNNCUUCGGNNNNKNNNNGGNNNNKNNNNCUUCGGNNNNKNNNNCGNNNNUGAAGCCUCCACGNNNNCCNNNKUCUCCCNNNNNKNNNNGCNNNUGAAGGAGGCACGNNNGGNNNNKNNNNCUUCGGNNNNKNNNNCGNNNNKNNNNCUUCGGNNNNKNNNNCCNNNNKNNNNN
+((((((((((((((((((((((....)))))))))))(((((((((((....)))))))))))(((((((..[[[[[[.))))))))))))))))))(((((((((((((((((..]]]]]].))))))(((((((((((....)))))))))))(((((((((((....))))))))))))))))))))))
+
+
+Begin NuPack Code (copy below this line):
+material = RNA
+temperature[C] = 37.0
+trials = 4
+sodium[M] = 1.0
+dangles = some
+allowmismatch = true
+structure RNA_seq = ((((((((((((((((((((((....)))))))))))(((((((((((....)))))))))))(((((((.........))))))))))))))))))(((((((((((((((((.........))))))(((((((((((....)))))))))))(((((((((((....))))))))))))))))))))))
+domain a = GGGAGAKNNNGCNNNNKNNNNCUUCGGNNNNKNNNNGGNNNNKNNNNCUUCGGNNNNKNNNNCGNNNNUGAAGCCUCCACGNNNNCCNNNKUCUCCCNNNNNKNNNNGCNNNUGAAGGAGGCACGNNNGGNNNNKNNNNCUUCGGNNNNKNNNNCGNNNNKNNNNCUUCGGNNNNKNNNNCCNNNNKNNNNN
+RNA_seq.seq = a
+prevent = AAAA, CCCC, GGGG, UUUU, KKKKKK, MMMMMM, RRRRRR, SSSSSS, WWWWWW, YYYYYY
